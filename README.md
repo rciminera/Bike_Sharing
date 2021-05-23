@@ -74,7 +74,7 @@ Customers can be grouped into two categories: Subscribers and Customers.  Subsci
 
 There are clusters of high volume activity in specific drop off points.  Knowing what these are can assist in building a similar pattern for DesMoines to make sure that bikes are available to get to these points.
 
-<img src="hhttps://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Top_ending_locations.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Top_ending_locations.png" width = "800" >
 
 
 
