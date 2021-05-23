@@ -38,7 +38,7 @@ This visualization shows that the majority of bikes are checked out for 22 minut
 
 Males represent the majority of riders, however, there is little difference in the amount of time that bikes are checked out between males and females.
 
-<img src="hhttps://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Checkout_Times_by_Gender.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Checkout_Times_by_Gender.png" width = "800" >
 
 
 3. Trips by Weekday per Hour
