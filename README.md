@@ -21,7 +21,7 @@ The  201908-citibike-tripdata.csv.zip file was downloaded from the citiBike webs
 
 The following data frame was created and then loaded into a csv file without: 
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/screen_shots/citibike_tripdata_df.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/citibike_tripdata_df.png" width = "800" >
 
 
 ### II. Create Visualizations
