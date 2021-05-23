@@ -52,7 +52,7 @@ The hours of highest ridership during weekdays are 7AM to 10AM and 5PM to 8PM.  
 
 While there are significantly more Male then Female riders, patterns of peak riding times do not differ between genders.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Trips_by_Weekday_per_Hour.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Trips_by_Gender_Weekday_per_Hour.png" width = "800" >
 
 
 5. Trips by Gender by Weekday
