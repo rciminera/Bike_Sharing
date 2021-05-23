@@ -38,21 +38,21 @@ This visualization shows that the majority of bikes are checked out for 22 minut
 
 Males represent the majority of riders, however, there is little difference in the amount of time that bikes are checked out between males and females.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Checkout_Times_by_Gender.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Checkout_Times_for_Users.png" width = "800" >
 
 
 3. Trips by Weekday per Hour
 
 The hours of highest ridership during weekdays are 7AM to 10AM and 5PM to 8PM.  On Saturdays and Sundays the peak hours are between 10AM and 8PM.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Trips_by_Weekday_per_Hour.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Trips_by_Weekday_per_Hour.png" width = "800" >
 
 
 4. Trips by Weekday per Hour by Gender
 
 While there are significantly more Male then Female riders, patterns of peak riding times do not differ between genders.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Trips_by_Gender_Weekday_per_Hour.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Trips_by_Weekday_per_Hour.png" width = "800" >
 
 
 5. Trips by Gender by Weekday
@@ -61,20 +61,20 @@ Startimes for Customer ridership are highest on Saturday and Sundays whereas Sub
 
 There appears to be no significant difference in start times  between Genders.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/User_Trips_by_Gender_by_Weekday.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/User_Trips_by_Gender_by_Weekday.png" width = "800" >
 
 6.  Customers
 
 Customers can be grouped into two categories: Subscribers and Customers.  Subscirbers are pre-registered frequent users and customers are transient users such as tourists.  The majority of riders are subscribers.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/customers.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/customers.png" width = "800" >
 
 
 7.  Top Ending Locations
 
 There are clusters of high volume activity in specific drop off points.  Knowing what these are can assist in building a similar pattern for DesMoines to make sure that bikes are available to get to these points.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Top_ending_locations.png" width = "800" >
+<img src="hhttps://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Top_ending_locations.png" width = "800" >
 
 
 
