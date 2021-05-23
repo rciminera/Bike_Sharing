@@ -32,13 +32,13 @@ To demonstrate to investors the background behind the bike sharing business plan
 
 This visualization shows that the majority of bikes are checked out for 22 minutes or less with a long tail after 30 minutes.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Checkout_Times_for_Users.png" width = "800" >
+<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Checkout_Times_for_Users.png" width = "800" >
 
 2. Checkout Times for All Users by Gender
 
 Males represent the majority of riders, however, there is little difference in the amount of time that bikes are checked out between males and females.
 
-<img src="https://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Checkout_Times_for_Users.png" width = "800" >
+<img src="hhttps://github.com/rciminera/Bike_Sharing/blob/main/Screen_Shots/Checkout_Times_by_Gender.png" width = "800" >
 
 
 3. Trips by Weekday per Hour
